@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbc2142ba4e87a3428ee010ad9a89258, type: 3}
+  m_Name: Pickle roll
+  m_EditorClassIdentifier: 
+  ItemName: Pickle roll
+  ItemModel: {fileID: 527892439758324159, guid: 8307d3136baca894195cbccd3a8ebbe5,
+    type: 3}
+  canrotten: 1
+  IsCraftable: 0
+  IsCraftOnly: 1
+  Isrotten: 0
+  rottenTime: 8
+  points: 15
+  id: 3
+  istoday: 0

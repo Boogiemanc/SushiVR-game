@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0690941f4c811eb46a758270c59246c9, type: 3}
+  m_Name: squid sushi
+  m_EditorClassIdentifier: 
+  Materials:
+  - {fileID: 11400000, guid: 2a126275a93aadf469f9078eb27f6f6d, type: 2}
+  - {fileID: 11400000, guid: b26d8442670849947910c1b0adf96f53, type: 2}
+  Results:
+  - {fileID: 11400000, guid: 09caaaaee417a2445b58deb09a6f5aac, type: 2}

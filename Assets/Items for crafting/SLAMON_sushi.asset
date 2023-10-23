@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbc2142ba4e87a3428ee010ad9a89258, type: 3}
+  m_Name: SLAMON_sushi
+  m_EditorClassIdentifier: 
+  ItemName: salmon sushi
+  ItemModel: {fileID: 159778955558757054, guid: 5989ac00b53c6b540a6e4a7fa2e62b10,
+    type: 3}
+  canrotten: 1
+  IsCraftable: 0
+  IsCraftOnly: 1
+  Isrotten: 0
+  rottenTime: 8
+  points: 15
+  id: 7
+  istoday: 0
